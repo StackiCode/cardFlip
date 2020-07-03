@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cardFlip/static/css/main.76271018.chunk.css",
+    "main.js": "/cardFlip/static/js/main.4eec0ce0.chunk.js",
+    "main.js.map": "/cardFlip/static/js/main.4eec0ce0.chunk.js.map",
+    "runtime-main.js": "/cardFlip/static/js/runtime-main.5666f6e3.js",
+    "runtime-main.js.map": "/cardFlip/static/js/runtime-main.5666f6e3.js.map",
+    "static/js/2.73701f37.chunk.js": "/cardFlip/static/js/2.73701f37.chunk.js",
+    "static/js/2.73701f37.chunk.js.map": "/cardFlip/static/js/2.73701f37.chunk.js.map",
+    "index.html": "/cardFlip/index.html",
+    "precache-manifest.cac165fda51382e5ebe8d91950fbaa99.js": "/cardFlip/precache-manifest.cac165fda51382e5ebe8d91950fbaa99.js",
+    "service-worker.js": "/cardFlip/service-worker.js",
+    "static/css/main.76271018.chunk.css.map": "/cardFlip/static/css/main.76271018.chunk.css.map",
+    "static/js/2.73701f37.chunk.js.LICENSE.txt": "/cardFlip/static/js/2.73701f37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5666f6e3.js",
+    "static/js/2.73701f37.chunk.js",
+    "static/css/main.76271018.chunk.css",
+    "static/js/main.4eec0ce0.chunk.js"
+  ]
+}
